@@ -4,13 +4,13 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=gnitoahc) <br />
+![](https://komarev.com/ghpvc/?username=ycneo) <br />
 I'm a 25-year-old computer science graduate passionate about technology, programming, and innovation. Currently, I'm based in Taipei/Taiwan, where I'm pursuing my degree and exploring the vast world of software development.
 
 #### 📘 About Me
 
 - 🌱 I’m currently diving deep into **Machine Learning** and **Artificial Intelligence**, especially NLP and AI workload optimization.
-- 👨‍💻 I'm working on a couple of side projects related to **web development** and **Retrieval-Augmented Generation**.
+- 👨‍💻 I'm working on a couple of side projects related to **web development**.
 - 💡 I'm interested in solving real-world problems using technology and am always looking for new challenges.
 - 📫 How to reach me
   - Email: [y.c.neo0718@gmail.com](mailto:y.c.neo0718@gmail.com)
