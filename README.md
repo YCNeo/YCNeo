@@ -14,8 +14,7 @@ I'm a 25-year-old computer science graduate passionate about technology, program
 - 💡 I'm interested in solving real-world problems using technology and am always looking for new challenges.
 - 📫 How to reach me
   - Email: [y.c.neo0718@gmail.com](mailto:y.c.neo0718@gmail.com)
-  <!-- - Portfolio: [www.chaoting.xyz](https://www.chaoting.xyz) -->
-  <!-- - LinkedIn: [chaoting-chen](https://www.linkedin.com/in/chaoting-chen) -->
+  - Portfolio: [ycneo.github.io/About-Y.C.Neo/](https://ycneo.github.io/About-Y.C.Neo/)
   - GitHub: [YCNeo](https://github.com/YCNeo)
 
 #### 🔧 Technologies & Tools
@@ -24,7 +23,7 @@ I'm a 25-year-old computer science graduate passionate about technology, program
 - **Frameworks/Libraries:**
   - **Web Development:** React, NextJs, Node.js, ExpressJs
   - **Mobile Development:** React Native
-  <!-- - **Machine Learning:** TensorFlow, Pytorch, Pandas, mlxtend, sklearn, Huggingface Candle -->
+  - **Machine Learning:** Pytorch, Pandas, Huggingface Candle
   - **API Design & Development:** RESTful APIs, Swagger/OpenAPI
 - **Tools:** Git, Docker, Nginx
 - **Database:** MySQL, PostgreSQL
