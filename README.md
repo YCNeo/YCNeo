@@ -20,7 +20,7 @@ I'm a 25-year-old computer science graduate passionate about technology, program
 
 #### 🔧 Technologies & Tools
 
-- **Language:** C/C++, JS/TS, Python
+- **Language:** C/C++, JS/TS, Python, Solidity
 - **Frameworks/Libraries:**
   - **Web Development:** React, NextJs, Node.js, ExpressJs
   - **Mobile Development:** React Native
