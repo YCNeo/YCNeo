@@ -31,15 +31,16 @@ I'm a 25-year-old computer science graduate passionate about technology, program
 - **Services:** Google Cloud Platform, Amazon Web Services, Cloudflare
 
 #### 🌟 Projects
+- **[Web_Crawler](https://github.com/YCNeo/Web_Crawler)**: This repo is a **TypeScript collection of web crawlers** built for different purposes. It organizes crawler outputs into datasets (e.g., a house-price dataset) and serves as a reusable toolkit for scraping structured data.
 
-<!-- - **[codesfer](https://github.com/GNITOAHC/codesfer):** Transfer your files and codes faster!! It's also self-hostable.
-- **[sqlite-gui](https://github.com/GNITOAHC/sqlite-gui):** Manage your SQLite or other relational databases more easily with a single binary.
-- **[md-html](https://github.com/GNITOAHC/md-html):** A lightweight binary that converts markdown to HTML, available on Homebrew.
-- **[processq](https://github.com/GNITOAHC/processq):** A lightweight binary that submits jobs local machine, available on Homebrew.
-- **[CitizenMedia](https://github.com/citizenmedia-tw/):** A platform dedicated to fostering transparency and democratic engagement in Taiwan. Built with NextJs for the frontend and microservices architecture for the backend, employs technologies such as ExpressJs, Nginx, Golang, and gRPC, etc.
-- **[lsmanager](https://github.com/GNITOAHC/lsmanager):** A language server manager built in Rust. Inspired by [mason.nvim](https://github.com/williamboman/mason.nvim).
-- **[Mermaid-GPT](https://github.com/GNITOAHC/mermaid-gpt):** A tool for generating graph via Mermaid given the context.
-- **[2023CSCamp](https://github.com/GNITOAHC/2023CSCamp):** A tutorial of [Unity3D](https://unity.com/) for beginners. The demo is hosted on [itch.io](https://chaoting.itch.io/2023cscamp) and the slide is hosted by [GitHub Pages](https://gnitoahc.github.io/2023CSCamp/). -->
+- **[1132_Data_Science_Final](https://github.com/YCNeo/1132_Data_Science_Final)**: This project analyzes **Taipei housing prices and rents** and builds prediction models using geocoding plus **MRT-based features** (e.g., distance to the nearest station and line info). It shows MRT distance is a significant factor and provides an end-to-end pipeline from data processing to regression modeling.
+
+- **[Latexfer](https://github.com/YCNeo/Latexfer)**: Latexfer is a small toolkit/workspace for writing and compiling **LaTeX with LuaLaTeX**, including practical notes for **English/Chinese font setup** and Word editing workflow. It also documents reusable **ChatGPT prompts** for generating elementary-school math handouts in LaTeX.
+
+- **[ESG](https://github.com/YCNeo/ESG)**: This project builds an easy-to-use digital record and dashboard platform for farmers, turning daily transaction/performance logs into a simple electronic workflow. Using a blockchain-backed backend plus a modern web frontend, it helps farmers record data quickly and generate government-required reports with minimal effort.
+  
+- **[Amisfer](https://github.com/YCNeo/Amisfer)**: This project is an **interactive AI learning platform for the Siouguluan Amis language**,  focusing on translating Amis and Chinese/English. Using machine learning, it aims to reduce the amount of required bilingual vocabulary alignment and lower the baseline expertise needed for translators.
+
 
 #### 📊 GitHub Analytics
 
