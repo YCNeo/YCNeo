@@ -32,7 +32,7 @@ I'm a 25-year-old computer science graduate passionate about technology, program
 #### 🌟 Projects
 - **[Web_Crawler](https://github.com/YCNeo/Web_Crawler)**: This repo is a **TypeScript collection of web crawlers** built for different purposes. It organizes crawler outputs into datasets (e.g., a house-price dataset) and serves as a reusable toolkit for scraping structured data.
 
-- **[1132_Data_Science_Final](https://github.com/YCNeo/1132_Data_Science_Final)**: This project analyzes **Taipei housing prices and rents** and builds prediction models using geocoding plus **MRT-based features** (e.g., distance to the nearest station and line info). It shows MRT distance is a significant factor and provides an end-to-end pipeline from data processing to regression modeling.
+- **[Taipei housing price](https://github.com/YCNeo/1132_Data_Science_Final)**: This project analyzes **Taipei housing prices and rents** and builds prediction models using geocoding plus **MRT-based features** (e.g., distance to the nearest station and line info). It shows MRT distance is a significant factor and provides an end-to-end pipeline from data processing to regression modeling.
 
 - **[Latexfer](https://github.com/YCNeo/Latexfer)**: Latexfer is a small toolkit/workspace for writing and compiling **LaTeX with LuaLaTeX**, including practical notes for **English/Chinese font setup** and Word editing workflow. It also documents reusable **ChatGPT prompts** for generating elementary-school math handouts in LaTeX.
 
