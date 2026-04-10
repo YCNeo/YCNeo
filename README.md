@@ -54,7 +54,7 @@ These projects reflect my curiosity, hands-on learning process, and interest in 
 #### 📫 Contact
 
 - **Email:** [y.c.neo0718@gmail.com](mailto:y.c.neo0718@gmail.com)
-- **Portfolio:** [ycneo.github.io/About-Y.C.Neo/](https://ycneo.github.io/About-Y.C.Neo/)
+- **Personal site:** [ycneo.github.io/About-Y.C.Neo/](https://ycneo.github.io/About-Y.C.Neo/)
 - **GitHub:** [YCNeo](https://github.com/YCNeo)
 
 #### 📊 GitHub Stats
