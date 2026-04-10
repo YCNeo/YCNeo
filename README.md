@@ -29,6 +29,9 @@ I enjoy creating practical tools, experimenting with new ideas, and using techno
 
 Projects in this section highlight how I integrate AI into real workflows, user experiences, and practical applications.
 
+- **[order-system](https://gitlab.com/lirosekimo/order-system)**  
+  An AI-powered food ordering system for workplace group orders, featuring Gemini-based menu parsing, order tracking, and Google Sheets synchronization.
+
 - **[ai-rhythm-assessment](https://github.com/YCNeo/ai-rhythm-assessment)**  
   A Google Apps Script web application designed for the post-course questionnaire of **《節奏工作法》**, featuring AI-generated personalized feedback, PDF export, and email delivery.
 
