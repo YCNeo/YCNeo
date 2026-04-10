@@ -29,7 +29,7 @@ I enjoy creating practical tools, experimenting with new ideas, and using techno
 
 Projects in this section highlight how I integrate AI into real workflows, user experiences, and practical applications.
 
-- **[AI Foodie](https://gitlab.com/lirosekimo/order-system)**  
+- **[AI Foodie](https://gitlab.com/YCNeo/ai-foodie)**  
   An AI-powered workplace food ordering system featuring Gemini-based menu parsing, employee self-ordering, and Google Sheets synchronization.
 
 - **[AI rhythm assessment](https://github.com/YCNeo/ai-rhythm-assessment)**  
